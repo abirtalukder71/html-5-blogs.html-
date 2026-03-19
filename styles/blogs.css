@@ -1,4 +1,5 @@
-nav li{
+nav li a{
+    text-decoration: none;
     list-style: none;
     display: inline;
     margin-right: 15px;
